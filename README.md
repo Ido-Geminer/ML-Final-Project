@@ -1,4 +1,4 @@
-<h1>Is a File Malicious</h1>
+<h1>Is a File Malicious?</h1>
 <h2>Final Project - Machine Learning Course - Tel Aviv University</h2>
 
 We were provided with data containing various features of executable (.exe) files and tasked with building a model to predict whether a given file is likely to be malicious based on static analysis.
